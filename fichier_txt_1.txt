@@ -1,0 +1,5 @@
+1. Drone : définition 
+
+Le terme dro:ne s’applique à de nombreux types de systèmes terrestres, maritimes ou aériens. Depuis 2006, dans tous les acronymes utilisés, le terme véhicule a été remplacé par le terme système. On parle ainsi d’Unmaned Aircraft System (UAS). Toutefois, le terme Remotely Piloted Aircraft Systems (RPAS) commence à émerger pour remplacer UAS. Visant essentiellement à confirmer, surtout aux politiques et décideurs, que l’UAS ne vole pas seul mais qu’il y a bien toujours un « pilote » ou un « opérateur » dans la boucle décisionnelle. 
+Un UAS peut se définir simplement de la manière suivante : « système dont le vecteur, non habité et porteur d’une ou plusieurs charges utiles, opère à une distance plus aux moins éloignée de sa station de contrôle en lui transmettant en temps réel les informations collectées ». La station de contrôle positionnée à terre, sur un véhicule terrestre, embarquée sur un navire ou un aéronef transmet des commandes au vecteur et à ses charges utiles et reçoit en temps réel les informations de celles-ci. 
+

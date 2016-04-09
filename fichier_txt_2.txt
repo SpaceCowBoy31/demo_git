@@ -1,0 +1,9 @@
+
+2. Composition des systèmes de drones
+
+ Un UAS se compose de plusieurs sous-ensembles fortement imbriqués et parfois partagés. Dans la suite nous verrons plus en détail les sous-ensembles suivant :
+  •      Le vecteur aérien (VA) : c’est la partie la plus visible et celle qui permet le vol ;
+   •      Les charges utiles (CU) : c’est la raison d’être d’un UAS. Il peut s’agir de caméras, de lasers permettant de désigner une cible, etc. ;
+    •      Les liaisons de données qui sont partagées entre le VA et la station de contrôle au sol (GSC): elles peuvent-être satellitaires (SatCom), dépendantes d’un réseau Wi-Fi, etc. ;
+
+

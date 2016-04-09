@@ -1,0 +1,4 @@
+3. Les différentes familles de drones  
+
+ La catégorisation stricte d’un système de drone n’existe pas. Traditionnellement, le VA est pris comme paramètre déterminant, néanmoins, il n’est pas le seul. La masse de CU embarquable, le type de liaison de données, l’endurance du vol, comme le type de mission sont essentiels. De plus, les catégories sont en constante évolution et les limites assez floue. Enfin, chaque pays a tendance  à créer sa propre classification. Le meilleur critère reste la masse et le type de CU utilisable sur une zone à une distance donnée pendant une durée donnée. Ce critère mixte et complexe est le seul qui permet d’évaluer la réalité opérationnelle d’un système.  
+
